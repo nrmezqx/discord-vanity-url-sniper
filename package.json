@@ -1,11 +1,11 @@
 {
   "name": "klanter-vanity-url-sniper",
   "version": "1.3.3-7",
-  "description": "X)",
+  "description": "asdsadasdsa",
   "license": "ISC",
   "main": "./app.js",
   "scripts": {
-    "test": "node ./app.js"
+    "dev": "npm i && node ./app.js"  
   },
   "author": "Klanter1337 on Github",
   "dependencies": {
